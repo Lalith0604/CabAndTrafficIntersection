@@ -2,6 +2,10 @@
 
 Demo video: https://www.loom.com/share/09434530623549a7a3e619ac0580c1ec
 
+frontend link open to start the app: https://cab-beacon.lovable.app
+
+run the backend 
+
 A full-stack **microservice-based smart routing simulation system** that visualizes how traffic signals affect a cab’s movement in real time.  
 Built using **Spring Boot**, **React + Mapbox**, and **Mapbox Directions API**, this project demonstrates how integrating traffic data can improve user experience and route transparency.
 
@@ -189,4 +193,5 @@ Copy code
 - You can preview how it looks using **GitHub’s Markdown Preview (Ctrl+Shift+V)** in VS Code.
 
 Would you like me to also generate a **GitHub repository description + tags + topics section** (for the right sidebar)? That helps your project rank higher when shared.
+
 
